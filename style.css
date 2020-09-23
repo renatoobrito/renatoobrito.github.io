@@ -7,7 +7,7 @@
 }
 
 html {
-  font-family: 'Roboto-mono', monospace;
+  font-family: 'Roboto Mono', monospace;
   font-size: 14px;
 }
 
@@ -36,8 +36,9 @@ nav ul {
 
 nav ul li a{
   text-decoration: none;
-  font-size: 16px;
-  color: #444;
+  font-weight: 400;
+  font-size: larger;
+  color: #333;
   border: 1px solid #8a2ce2;
   border-radius: 5px;
   padding: 5px 10px;
@@ -47,5 +48,5 @@ nav ul li a{
 a:hover {
   background-color: #8a2ce2;
   color: #fff;
-  transition: 0.5s;
+  transition: 0.6s;
 }
