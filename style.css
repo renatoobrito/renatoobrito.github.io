@@ -1,0 +1,11 @@
+html {
+  font-family: 'Roboto-mono', monospace;
+  font-size: 14px;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px 20px 0 20px;
+  border: 2px solid #000;
+}
