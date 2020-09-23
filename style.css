@@ -1,3 +1,11 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 html {
   font-family: 'Roboto-mono', monospace;
   font-size: 14px;
@@ -7,5 +15,37 @@ body {
   width: 800px;
   margin: 0 auto;
   padding: 20px 20px 0 20px;
-  border: 2px solid #000;
+}
+
+.logo {
+  position: absolute;
+  display: block;
+  width: 70px;
+  height: 70px;
+}
+
+nav {
+  text-align: center;
+  padding: 25px;
+  left: 0;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li a{
+  text-decoration: none;
+  font-size: 16px;
+  color: #444;
+  border: 1px solid #8a2ce2;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+
+a:hover {
+  background-color: #8a2ce2;
+  color: #fff;
+  transition: 0.5s;
 }
