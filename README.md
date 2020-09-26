@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello dear visitor, this is my first personal project, here I'll tell you some things about me and how are my studies routine. I'm from Brazil and I'm writing this README in English 'cause I want to challenge myself with the language, if you don't feel comfortable reading in English, don't worry read it [README-PT](https://github.com/renatoobrito/renatoobrito.github.io/README-PT.md), it has the same content.
+Hello dear visitor, this is my first personal project, here I'll tell you some things about me and how are my studies routine. I'm from Brazil and I'm writing this README in English 'cause I want to challenge myself with the language, if you don't feel comfortable reading in English, don't worry read it [README-PT](https://github.com/renatoobrito/renatoobrito.github.io/blob/master/README-PT.md), it has the same content.
 
 ## The beginning
 
