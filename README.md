@@ -1,9 +1,13 @@
-# PERSONAL PAGE
+# PERSONAL PAGE | PÁGINA PESSOAL
 
-## Introduction
+## About
 
-Hello dear visitor, this is my first personal project, here I'll tell you some things about me and how are my studies routine. I'm from Brazil and I'm writing this README in English 'cause I want to challenge myself with the language, if you don't feel comfortable reading in English, don't worry read it [README-PT](https://github.com/renatoobrito/renatoobrito.github.io/blob/master/README-PT.md), it has the same content.
+Hello there, my name is Renato Brito and I am a JavaScript developer, this README.md is about how I started to grow with my JS skills and learnings. Unfortunately, I was fired and I couldn't pay for my degree in systems analysis and development. However, I bought a Functional JavaScript course at Udemy. I can say that the course is very good and current, I believe it will help me get a job. I look forward to being hired for a startup or IT Company as a Developer.
 
-## The beginning
+I will update this personal page with a blog that will contain explanations about JS (of course, until where my experience and knowledge go), technology, and some moments about me.
 
-My name's Renato Brito, I'm 28, I was born in Salvador-BA, nowadays I live in Betim-MG, for while. I'm graduated in Technical in Radiology and graduating in System Analysis and Development, yeah so distinctive, however, I loved to study about health and radiation. Technology is my passion as my passion for the wonders of the universe, stars, galaxies, suns, aliens (chuckles) you know? Well, I hope to help and entertain in some way. See you around.
+## Sobre
+
+Olá, meu nome é Renato Brito e sou um desenvolvedor JavaScript, este README.md é sobre como comecei a crescer com minhas habilidades e aprendizados JS. Infelizmente, fui demitido e não pude pagar meu diploma em análise e desenvolvimento de sistemas. No entanto, comprei um curso de JavaScript funcional na Udemy. Posso dizer que o curso é muito bom e atual, acredito que vai me ajudar a conseguir um emprego. Estou ansioso para ser contratado para uma startup ou empresa de TI como desenvolvedor.
+
+Vou atualizar esta página pessoal com um blog que conterá explicações sobre JS (claro, até onde vão minha experiência e conhecimento), tecnologia e alguns momentos sobre mim.
